@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 13,
-    "description": "1.19.4: This pack makes the view from a spyglass scope clear while keeping the border when used."
+    "pack_format": 15,
+    "description": "1.20-1.20.1: This pack makes the view from a spyglass scope clear while keeping the border when used."
   }
 }
