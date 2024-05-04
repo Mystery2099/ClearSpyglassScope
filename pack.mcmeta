@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 22,
-    "supported_formats":[16,22],
-    "description": "1.20.2-1.20.4: This pack makes the view from a spyglass scope clear while keeping the border when used."
+    "pack_format": 32,
+    "supported_formats":[16,32],
+    "description": "1.20.2-1.20.6: This pack makes the view from a spyglass scope clear while keeping the border when used."
   }
 }
