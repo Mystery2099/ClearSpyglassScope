@@ -1,5 +1,9 @@
 # Clear Spyglass Scope
 
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/clear-spyglass-scope?style=flat&label=Modrinth&logo=modrinth&color=00AF5C)](https://modrinth.com/resourcepack/clear-spyglass-scope)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/959852?style=flat&label=CurseForge&logo=curseforge&color=F16436)](https://www.curseforge.com/minecraft/texture-packs/clear-spyglass-scope)
+[![GitHub Release](https://img.shields.io/github/v/release/Mystery2099/ClearSpyglassScope?style=flat&label=GitHub&logo=github)](https://github.com/Mystery2099/ClearSpyglassScope/releases/latest)
+
 A tiny Minecraft resource pack that clears out the murky spyglass overlay, so you can actually *see* what you're looking at — without losing the nice scope border.
 
 That's it. No extra fluff, no fancy shaders. Just a clearer spyglass.
