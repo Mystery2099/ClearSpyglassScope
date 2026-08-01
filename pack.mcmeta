@@ -1,7 +1,9 @@
 {
   "pack": {
-    "pack_format": 55,
-    "supported_formats":[16,55],
-    "description": "This resource pack makes the view through a spyglass scope clear while keeping the decorative border intact. Compatible with Minecraft 1.21.5 and earlier versions."
+    "pack_format": 88,
+    "supported_formats": [16, 88],
+    "min_format": 16,
+    "max_format": 88,
+    "description": "This resource pack makes the view through a spyglass scope clear while keeping the decorative border intact. Compatible with Minecraft 26.2 and earlier versions."
   }
 }
