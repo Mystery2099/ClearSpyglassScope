@@ -6,7 +6,9 @@ That's it. No extra fluff, no fancy shaders. Just a clearer spyglass.
 
 ## Install
 
-Easiest option: grab it from [Modrinth](https://modrinth.com/resourcepack/clear-spyglass-scope).
+Easiest options:
+- [Modrinth](https://modrinth.com/resourcepack/clear-spyglass-scope)
+- [CurseForge](https://www.curseforge.com/minecraft/texture-packs/clear-spyglass-scope)
 
 Or from GitHub:
 
