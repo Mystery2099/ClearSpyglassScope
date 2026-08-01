@@ -6,6 +6,10 @@ That's it. No extra fluff, no fancy shaders. Just a clearer spyglass.
 
 ## Install
 
+Easiest option: grab it from [Modrinth](https://modrinth.com/resourcepack/clear-spyglass-scope).
+
+Or from GitHub:
+
 1. Grab the latest zip from [Releases](https://github.com/Mystery2099/ClearSpyglassScope/releases/latest)
 2. Drop it into your Minecraft `resourcepacks` folder
 3. Enable it in-game under Resource Packs
