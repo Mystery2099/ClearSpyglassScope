@@ -30,7 +30,9 @@ If a brand-new Minecraft update marks the pack as incompatible, check for a new 
 
 ## Support
 
-If this pack made your spyglass a little less annoying, you can [buy me a coffee](https://buymeacoffee.com/mystery2099). Totally optional.
+This pack is free. Forever. It's literally one texture.
+
+If you somehow still want to tip, you can [buy me a coffee](https://buymeacoffee.com/mystery2099). Please don't feel any pressure to; most people shouldn't, and that's completely fine.
 
 ## License
 
