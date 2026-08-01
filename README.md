@@ -28,6 +28,10 @@ Updated for the current Minecraft Java Edition release. Older versions usually s
 
 If a brand-new Minecraft update marks the pack as incompatible, check for a new release; those bumps are usually just a format number change.
 
+## Support
+
+If this pack made your spyglass a little less annoying, you can [buy me a coffee](https://buymeacoffee.com/mystery2099). Totally optional.
+
 ## License
 
 Do whatever you want with it. Share it, tweak it, toss it in a modpack. Have fun.
